@@ -1,0 +1,28 @@
+{
+  "name": "islam",
+  "version": "1.0.0",
+  "description": "أفضل بوت إسلامي عربي (أعتقاد)",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/EXA-Hub.git"
+  },
+  "keywords": [
+    "islam",
+    "bot",
+    "discord",
+    "islam bot",
+    "discord bot",
+    "بوت",
+    "بوت ديسكورد"
+  ],
+  "author": "ZAMPX (مـحـمـود)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/EXA-Hub/islam/issues"
+  },
+  "homepage": "https://github.com/github.com/EXA-Hub/islam#readme"
+}
