@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/github.com/EXA-Hub/islam/issues"
   },
-  "homepage": "https://github.com/github.com/EXA-Hub/islam#readme"
+  "homepage": "https://github.com/github.com/EXA-Hub/islam#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
 }
