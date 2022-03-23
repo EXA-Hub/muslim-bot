@@ -4,12 +4,10 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+|   1.x   | :white_check_mark: |
 
 ## الإبلاغ عن ثغرة أمنية
 
 يمكنك الإبلاغ عن أي ثغرة أمنية من خلال قسم "issues"
+
 أو يمكنك التوجه إلى مجتمعنا في الديسكورد: https://discord.gg/ZPpwb3GRyG
