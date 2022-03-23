@@ -27,5 +27,8 @@
   "homepage": "https://github.com/github.com/EXA-Hub/islam#readme",
   "dependencies": {
     "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
