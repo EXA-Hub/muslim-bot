@@ -28,7 +28,9 @@
   },
   "homepage": "https://github.com/github.com/EXA-Hub/islam#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "discord.js": "^13.6.0",
+    "dotenv": "^8.6.0",
+    "wokcommands": "^1.5.3"
   },
   "devDependencies": {
     "@types/node": "^17.0.23",
